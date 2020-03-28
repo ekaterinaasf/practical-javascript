@@ -1,3 +1,4 @@
+//Version 3 - Objects
 var myComputer = {
   operatingSystem: "Ubuntu",
   screenSize: "15 inches",
