@@ -28,4 +28,4 @@ Code description is [here](https://github.com/ekaterinaasf/practical-javascript/
 
 ## Version 7 - DOM and HTML
 
-Code description is [here](https://github.com/ekaterinaasf/practical-javascript/blob/master/thinking.js)
+Code description is [here](https://github.com/ekaterinaasf/practical-javascript/tree/dom)
