@@ -25,3 +25,7 @@ Code description is [here](https://github.com/ekaterinaasf/practical-javascript/
 ## Version 6 - Thinking in code
 
 Code description is [here](https://github.com/ekaterinaasf/practical-javascript/blob/master/thinking.js)
+
+## Version 7 - DOM and HTML
+
+Code description is [here](https://github.com/ekaterinaasf/practical-javascript/blob/master/thinking.js)
